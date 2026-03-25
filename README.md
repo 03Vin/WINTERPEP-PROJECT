@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ PEP — Academic Management System
+# ⚡ SmartAcad — Academic Management System
 
 ### *A next-generation institutional intelligence platform*
 
@@ -33,7 +33,7 @@
 
 ## 🌌 Overview
 
-**PEP** (Professional Education Platform) is a full-stack academic management system built for modern educational institutions. It features a premium **cyberpunk-inspired UI**, intelligent scheduling, dynamic QR-based attendance with anti-proxy fraud detection, and role-segregated portals for Admins, Teachers, and Students — all backed by a secure, scalable REST API.
+**SmartAcad** is a full-stack academic management system built for modern educational institutions. It features a premium **cyberpunk-inspired UI**, intelligent scheduling, dynamic QR-based attendance with anti-proxy fraud detection, and role-segregated portals for Admins, Teachers, and Students — all backed by a secure, scalable REST API.
 
 > Built with a "Command Center" philosophy — every interaction feels like operating a high-security institutional intelligence terminal.
 
